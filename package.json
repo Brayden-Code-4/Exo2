@@ -1,0 +1,10 @@
+{
+  "name": "mon-projet-js",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "main.js": "^0.0.1",
+    "node": "^22.23.3",
+    "rodiumai": "^0.2.0"
+  }
+}
